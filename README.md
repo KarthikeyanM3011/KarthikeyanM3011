@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[www.linkedin.com/in/karthikeyan-m30112004]">
+  <a href="www.linkedin.com/in/karthikeyan-m30112004">
     <img width="150px" height="150px" alt="Hello, I'm [Your Name]. I do open source!" src="https://raw.githubusercontent.com/KarthikeyanM3011/ProfileView/main/Images/Karthi.jpeg" style="border-radius: 50%;" />
   </a>
 </p>
