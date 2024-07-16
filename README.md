@@ -59,12 +59,6 @@ I'm a self-taught passionate BackEnd developer from India 🇮🇳
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanM3011&show_icons=true&locale=en&layout=compact" alt="Karthikeyan M" /></p>
 
-<!-- <br>
-<br>
- -->
-
-<!-- ![Karthikeyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikeyanM3011&show_icons=true&theme=radical) -->
-
 <br />
 <br />
 
