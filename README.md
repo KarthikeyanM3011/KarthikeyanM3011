@@ -40,7 +40,6 @@ I'm a self-taught passionate BackEnd developer from India 🇮🇳
 </a>
 <br />
 <br />
-<br />
 <a href="https://github.com/KarthikeyanM3011/Text_Summarizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikeyanM3011&repo=Text_Summarizer&theme=dracula" />
 </a>
@@ -51,11 +50,9 @@ I'm a self-taught passionate BackEnd developer from India 🇮🇳
 </a>
 <br />
 <br />
-<br />
 <a href="https://github.com/KarthikeyanM3011/Inventory-Management-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikeyanM3011&repo=CMS-System-FSD-Project&theme=dracula" />
 </a>
-<br />
 
 <br />
 <br />
