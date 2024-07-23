@@ -14,7 +14,7 @@ I'm a self-taught passionate BackEnd developer from India 🇮🇳
 
 - 💼 Worked as AI & AWS Engineer Intern at [Cellstrat](https://cellstrathub.com/) during my II Year in College on ImagineView Product.
 
-- 💬 Ask me about anything [Message_Here](https://github.com/KarthikeyanM3011/ProfileView/issues)
+- 💬 Ask me about anything [Message_Here](https://github.com/KarthikeyanM3011/KarthikeyanM3011/issues)
 
 - 📧 Reach out to me at [Mail_Here](mailto:karthikeyanmjnk13579@gmail.com)
 
